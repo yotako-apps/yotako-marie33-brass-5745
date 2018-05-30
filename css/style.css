@@ -1,0 +1,33 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px
+}
+.style-1 {
+  background-image: url(https://designresources.assets.yotako.io/40599uejht4j4o2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 375px;
+  height: 361px;
+  align-items: center;
+  flex-direction: column
+}
+.style-2 {
+  color: #fff;
+  text-align: center;
+  font-family: foundrygridnik,serif;
+  font-size: 1.625em;
+  line-height: 40px;
+  margin-top: 72px;
+  width: 291px
+}
+.style-3 {
+  margin-top: 66px;
+  width: 111px;
+  height: 41px
+}
